@@ -55,11 +55,11 @@ hr {
 .menu {
   background-color:#000;
   max-width:100%;
-  padding:20px;
+ 
   text-transform:uppercase;
   text-align:center;
   border-bottom:1px solid #fff;
-  font-size:30px;
+  font-size:50px;
   letter-spacing:2px;
 }
 
